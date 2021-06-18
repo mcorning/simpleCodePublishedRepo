@@ -44,6 +44,6 @@ Next step is politically correct. In honor of Juneteenth Day tomorrow, I changed
 
 Alternatively, you can accomplish the same thing with mouse clicks:
 
-1) select the `master*` button in the bottom/left corner of VS Code
-2) select `origin/main` from the bottom of the list of branches
-3) now you can commit changes to the new branch
+1) select the `master*` button in the bottom/left corner of VS Code (the asterisk means there are unsave/committed changes)
+2) select `origin/main` from the bottom of the list of branches that appears at the top/center of VS Code
+3) now you can commit changes to the new branch (`main` replaces `master` from step 1)
