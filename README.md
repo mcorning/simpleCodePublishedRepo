@@ -1,4 +1,4 @@
-# Simple Coder Published Repo
+# Simple Code Published Repo
 
 This repo was created from VS Code.
 
