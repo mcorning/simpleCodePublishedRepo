@@ -14,3 +14,15 @@ This repo was created from VS Code.
 10) I selected `Open the repo on GitHub` option
 
 And that's all there was to it.
+
+## Part II
+
+This technique makes a private repo. I needed this repo to be public, so I:
+
+1) opened <https://github.com/mcorning/simpleCodePublishedRepo/settings>
+2) scolled to the bottom of the page until I saw the `Danger Zone`
+3) Selected `Change repository visibility`
+4) copy/paste the repo name in the field
+5) Clicked the enabled button
+
+Now you can see this repo, too.
