@@ -26,3 +26,21 @@ This technique makes a private repo. I needed this repo to be public, so I:
 5) Clicked the enabled button
 
 Now you can see this repo, too.
+
+## Part III
+
+Next step is politically correct. In honor of Juneteenth Day tomorrow, I changed the default branch name, master, to the new default name (in providers like Heroku and Netlify), main.
+
+1) from the home page, <https://github.com/mcorning/simpleCodePublishedRepo>
+2) I clicked on the `1 branch` button next to the `master` dropdown
+3) I clicked the edit icon on the right side of the branch list
+4) I entered `main` as the new name
+5) I clicked the enabled `Rename branch` button
+
+Changing the branch name early like this means there are no side effects to renaming a branch.
+
+However, VS Code may not know of the name change...so:
+
+1) select the master* button in the bottom/left corner of VS Code
+2) select `origin/main` from the bottom of the list of branches
+3) now you can commit changes to the new branch
